@@ -1,0 +1,23 @@
+{
+  "name": "growweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfolaya8/GrowWeb.git"
+  },
+  "author": "Jean Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfolaya8/GrowWeb/issues"
+  },
+  "homepage": "https://github.com/jfolaya8/GrowWeb#readme"
+}
